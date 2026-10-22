@@ -1,0 +1,57 @@
+{
+  "reviewed_at": "2026-10-22T14:46:16.816987+00:00",
+  "public_owner_repo_count": 57,
+  "duplicate_found": false,
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "date": "2026-07-26T02:06:10Z",
+      "message": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "archived": false,
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "license_snapshot": "provenance/brandondube_prysm-LICENSE.txt",
+      "license_url": "https://raw.githubusercontent.com/brandondube/prysm/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md"
+    },
+    {
+      "repository": "scipy/scipy",
+      "commit": "3f3cfc31741d63a5f4c6c44841640a9fa1304eb2",
+      "date": "2026-10-21T21:23:37Z",
+      "message": "ENH: spatial.distance: add batching and xp support for seuclidean (#26460)",
+      "archived": false,
+      "pushed_at": "2026-10-21T21:23:38Z",
+      "license_snapshot": "provenance/scipy_scipy-LICENSE.txt",
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/3f3cfc31741d63a5f4c6c44841640a9fa1304eb2/LICENSE.txt"
+    },
+    {
+      "repository": "numpy/numpy",
+      "commit": "df2ad655ce0ee5eeb5946c1c998cfd0049a9f609",
+      "date": "2026-10-22T05:21:53Z",
+      "message": "MAINT: Update cibuildwheel to v4.3.3 (#33116)",
+      "archived": false,
+      "pushed_at": "2026-10-22T05:21:54Z",
+      "license_snapshot": "provenance/numpy_numpy-LICENSE.txt",
+      "license_url": "https://raw.githubusercontent.com/numpy/numpy/df2ad655ce0ee5eeb5946c1c998cfd0049a9f609/LICENSE.txt"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "commit": "31637ba42923358d69c364a296f43894b06731e6",
+      "date": "2026-10-22T12:32:14Z",
+      "message": "DOC: replace hardcoded 'build' with BUILDDIR variable in Makefile (#32512)",
+      "archived": false,
+      "pushed_at": "2026-10-22T12:32:14Z",
+      "license_snapshot": "provenance/matplotlib_matplotlib-LICENSE.txt",
+      "license_url": "https://raw.githubusercontent.com/matplotlib/matplotlib/31637ba42923358d69c364a296f43894b06731e6/LICENSE/LICENSE"
+    },
+    {
+      "repository": "ahmetalpkilic/fixed-calibration-optical-delay-learning-lab",
+      "commit": "1100998ff987462ccc21bbc040e1864bb3dd9a26",
+      "date": "2026-10-22T01:02:14Z",
+      "message": "Build fixed-calibration optical-delay batch learning lab",
+      "archived": false,
+      "pushed_at": "2026-10-22T01:02:27Z",
+      "license_snapshot": "provenance/ahmetalpkilic_fixed-calibration-optical-delay-learning-lab-LICENSE.txt",
+      "license_url": "https://raw.githubusercontent.com/ahmetalpkilic/fixed-calibration-optical-delay-learning-lab/1100998ff987462ccc21bbc040e1864bb3dd9a26/LICENSE"
+    }
+  ]
+}
